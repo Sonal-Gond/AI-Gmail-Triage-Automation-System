@@ -1,0 +1,7 @@
+Template link 👇🏼 :
+
+https://zapier.com/templates/details/ai-triage-with-gmail-through-appscript-9307b2?secret=MTp0ZW1wbGF0ZTpuYUlScmdUYXllelAxR1NBWEIwQXh5Z3hSUmYwOF92a1NYRFJQUVNsdnIwOmkzOWYxOQ
+
+Overview of Workflow :
+
+When a new email receives the new-ticket label, this Zap is triggered. AI analyzes the email, determines the issue category, sentiment, and urgency, and generates a short summary. The ticket is then routed to the appropriate support team via Slack, the ticket details are logged in Google Sheets, and a confirmation email is sent to the customer.
