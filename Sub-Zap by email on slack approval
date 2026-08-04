@@ -1,0 +1,8 @@
+Template link 👇🏼 :
+
+https://zapier.com/templates/details/sub-zap-by-email-on-slack-approval-292dd0?secret=MTp0ZW1wbGF0ZToxNnk3TkNfS25IOTR2OHJHUnI4aVpVaFRVMnEwYy1yR3JQRTRoaFFBUVBZOmtjMGIydw
+
+Overview of Workflow :
+This workflow receives support ticket data from the AI-Triage process and searches Pinecone for relevant solutions. 
+If relevant information is found, AI generates a draft response and sends it to the appropriate team for review. Team members can approve, edit, or decline the draft. Approved or edited responses are sent directly to the customer. If the draft is declined for a ticket with Negative or Angry sentiment, the team can provide the correct solution through Slack, which is then sent to the customer. 
+If no relevant solution is found and the ticket has Negative or Angry sentiment with High urgency, the issue is automatically escalated to the Solution Priority Team for immediate attention. 
