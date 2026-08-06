@@ -31,9 +31,9 @@ Filters incoming Gmail emails through 3 validation layers (headers, sender domai
 
 - 📄 **Full setup guide:** [docs/01-appscript-trigger-setup.md](./docs/01-appscript-trigger-setup.md)
 - 📜 **Script:** [scripts/email-triage.gs](./scripts/email-triage.gs)
-- 🔗 **Template:** [Zapier Template Link](https://zapier.com/templates/details/appscripttrigger-4826bb)
+- 🔗 **Template:** [Zapier Template Link](https://zapier.com/templates/details/appscripttrigger-4826bb?secret=MTp0ZW1wbGF0ZToxbWZVOXFpZ1QzMTA5WHZmSVluRXZzTjExQU9YVm9DMWZENGJEUFJXcnhzOjFxc3YxNA)
 
-![AppScript Trigger Setup](./screenshots/workflow1-trigger-setup.png)
+![AppScript Trigger Setup](./screenshots/workflow1_appscript_trigger.png)
 
 ---
 
