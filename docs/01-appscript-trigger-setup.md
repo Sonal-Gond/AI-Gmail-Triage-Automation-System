@@ -71,7 +71,11 @@ Go to **Settings → Filters and Blocked Addresses → Create new filter**
 1. Open **AI-Triage Support Issue on Gmail** Zap.
 2. Open the first Gmail trigger module.
 3. Select `new-ticket` label.
-4. Publish.
+
+## Step 7: Webhook Configuration 
+ 1. Open webhook node
+ 2. Replace the URL with your deployed AppScript url
+ 3. Publish the workflow 
 
 ## Screenshots
 
