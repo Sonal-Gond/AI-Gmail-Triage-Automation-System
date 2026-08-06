@@ -17,7 +17,7 @@ Once configured, click **Publish**.
 
 ## Screenshots
 
-![Edited and Collected Data Sent to Gmail Workflow Image](../screenshots/workflow4-webhook.png)
+![Edited and Collected Data Sent to Gmail Workflow Image](../screenshots/workflow4_edited_collected_draft_email.png)
 
 ---
 [← Back to README](../README.md)
