@@ -36,7 +36,7 @@ Store some dummy question-and-answer pairs in Pinecone across your category name
 
 ### Slack API Request node
 1. Go to the **Configure** tab → **Body** section
-2. Replace the placeholder webhook URL with the webhook URL generated in **Template 4**
+2. Replace the webhook URL with your webhook URL generated in **Template 4**
    (create Template 4 first, then come back and paste it here)
 
 ## Publish
