@@ -1,6 +1,6 @@
 # Template 3: Sub-Zap by Email on Slack Approval — Setup Guide
 
-🔗 **Template link:** [Open in Zapier](https://zapier.com/templates/details/sub-zap-by-email-on-slack-approval-292dd0)
+🔗 **Template link:** [Open in Zapier]([https://zapier.com/templates/details/sub-zap-by-email-on-slack-approval-292dd0](https://zapier.com/templates/details/sub-zap-by-email-on-slack-approval-292dd0?secret=MTp0ZW1wbGF0ZToxNnk3TkNfS25IOTR2OHJHUnI4aVpVaFRVMnEwYy1yR3JQRTRoaFFBUVBZOmtjMGIydw))
 
 > ⚠️ Configure **Template 4** first to get the webhook URL needed in this workflow.
 
