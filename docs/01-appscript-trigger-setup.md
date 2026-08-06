@@ -70,7 +70,7 @@ Go to **Settings → Filters and Blocked Addresses → Create new filter**
 
 1. Open **AI-Triage Support Issue on Gmail** Zap.
 2. Open the first Gmail trigger module.
-3. Replace `INBOX` with the `new-ticket` label.
+3. Select `new-ticket` label.
 4. Publish.
 
 ## Screenshots
