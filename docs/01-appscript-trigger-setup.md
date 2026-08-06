@@ -1,6 +1,6 @@
 # Template 1: AppScript Trigger — Setup Guide
 
-🔗 **Template link:** [Open in Zapier][(https://zapier.com/templates/details/appscripttrigger-4826bb)](https://zapier.com/templates/details/appscripttrigger-4826bb?secret=MTp0ZW1wbGF0ZToxbWZVOXFpZ1QzMTA5WHZmSVluRXZzTjExQU9YVm9DMWZENGJEUFJXcnhzOjFxc3YxNA)
+🔗 **Template link:** [Open in Zapier][(https://zapier.com/templates/details/appscripttrigger-4826bb?secret=MTp0ZW1wbGF0ZToxbWZVOXFpZ1QzMTA5WHZmSVluRXZzTjExQU9YVm9DMWZENGJEUFJXcnhzOjFxc3YxNA)]
 
 ## Step 1: Create Gmail Labels
 
