@@ -1,8 +1,0 @@
-
-Template link 👇🏼 : 
-https://zapier.com/templates/details/appscripttrigger-4826bb?secret=MTp0ZW1wbGF0ZToxbWZVOXFpZ1QzMTA5WHZmSVluRXZzTjExQU9YVm9DMWZENGJEUFJXcnhzOjFxc3YxNA
-
-
-Overview of Workflow : 
-When a new email arrives in the raw-inbox Gmail label, the Zap is triggered and triggers  Apps Script through a webhook. The Apps Script analyzes the email and determines whether it is a genuine customer support issue. Based on the result, the email is categorized and processed then goes to new-ticket label.
-
