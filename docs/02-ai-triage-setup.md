@@ -36,7 +36,7 @@ Once all nodes are connected and configured, click **Publish**.
 
 ## Screenshots
 
-![AI Triage Node Config](../screenshots/workflow2-node-config.png)
+![AI-Triage with Gmail through AppScript workflow Image](../screenshots/workflow2_ai_triage.png)
 
 ---
 [← Back to README](../README.md)
