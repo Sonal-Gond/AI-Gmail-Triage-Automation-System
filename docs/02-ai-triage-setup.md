@@ -1,6 +1,6 @@
 # Template 2: AI-Triage with Gmail through AppScript — Setup Guide
 
-🔗 **Template link:** [Open in Zapier](https://zapier.com/templates/details/ai-triage-with-gmail-through-appscript-9307b2)
+🔗 **Template link:** https://zapier.com/templates/details/ai-triage-with-gmail-through-appscript-9307b2?secret=MTp0ZW1wbGF0ZTpuYUlScmdUYXllelAxR1NBWEIwQXh5Z3hSUmYwOF92a1NYRFJQUVNsdnIwOmkzOWYxOQ
 
 > ⚠️ Configure **Template 3** first — this workflow needs to select your Sub-Zap, which only appears once Template 3 exists.
 
