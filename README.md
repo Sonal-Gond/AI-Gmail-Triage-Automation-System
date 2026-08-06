@@ -42,9 +42,9 @@ Filters incoming Gmail emails through 3 validation layers (headers, sender domai
 Classifies new tickets by category, sentiment, and urgency using AI; routes to the right Slack team, logs to Google Sheets, and sends a confirmation email to the customer.
 
 - 📄 **Full setup guide:** [docs/02-ai-triage-setup.md](./docs/02-ai-triage-setup.md)
-- 🔗 **Template:** [Zapier Template Link](https://zapier.com/templates/details/ai-triage-with-gmail-through-appscript-9307b2)
+- 🔗 **Template:** [Zapier Template Link](https://zapier.com/templates/details/ai-triage-with-gmail-through-appscript-9307b2?secret=MTp0ZW1wbGF0ZTpuYUlScmdUYXllelAxR1NBWEIwQXh5Z3hSUmYwOF92a1NYRFJQUVNsdnIwOmkzOWYxOQ)
 
-![AI-Triage Setup](./screenshots/workflow2-node-config.png)
+![AI-Triage Setup](./screenshots/workflow2_ai_triage.png)
 
 ---
 
