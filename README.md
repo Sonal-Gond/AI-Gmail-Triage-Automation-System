@@ -53,9 +53,9 @@ Classifies new tickets by category, sentiment, and urgency using AI; routes to t
 Searches Pinecone for relevant past solutions and drafts an AI response for human review on Slack (approve, edit, or decline). Auto-escalates unresolved high-urgency, negative-sentiment tickets.
 
 - 📄 **Full setup guide:** [docs/03-subzap-approval-setup.md](./docs/03-subzap-approval-setup.md)
-- 🔗 **Template:** [Zapier Template Link](https://zapier.com/templates/details/sub-zap-by-email-on-slack-approval-292dd0)
+- 🔗 **Template:** [Zapier Template Link](https://zapier.com/templates/details/sub-zap-by-email-on-slack-approval-292dd0?secret=MTp0ZW1wbGF0ZToxNnk3TkNfS25IOTR2OHJHUnI4aVpVaFRVMnEwYy1yR3JQRTRoaFFBUVBZOmtjMGIydw)
 
-![Sub-Zap Approval Setup](./screenshots/workflow3-pinecone-index.png)
+![Sub-Zap Approval Setup](./screenshots/workflow3_sub_zap_slack_approval.png)
 
 ---
 
@@ -64,9 +64,9 @@ Searches Pinecone for relevant past solutions and drafts an AI response for huma
 Sends the final reply to the customer — whether it's an edited AI draft or a manually submitted solution from the support team.
 
 - 📄 **Full setup guide:** [docs/04-collected-reply-setup.md](./docs/04-collected-reply-setup.md)
-- 🔗 **Template:** [Zapier Template Link](https://zapier.com/templates/details/edited-and-collected-data-sent-to-gmail-95b2d8)
+- 🔗 **Template:** [Zapier Template Link](https://zapier.com/templates/details/edited-and-collected-data-sent-to-gmail-95b2d8?secret=MTp0ZW1wbGF0ZTpZOE5BQ1hET2R3N1dDdGxzcUVraUF4cnI2b3dOQUEzZEN6bDBUczlmRkRNOm15OXVjNw)
 
-![Collected Reply Setup](./screenshots/workflow4-webhook.png)
+![Collected Reply Setup](./screenshots/workflow4_edited_collected_draft_email.png)
 
 ---
 
