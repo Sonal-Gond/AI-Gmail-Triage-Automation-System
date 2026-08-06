@@ -75,7 +75,7 @@ Go to **Settings → Filters and Blocked Addresses → Create new filter**
 
 ## Screenshots
 
-![AppScript Trigger Workflow Image](../screenshots/workflow1-trigger-setup.png)
+![AppScript Trigger Workflow Image](../screenshots/workflow1_appscript_trigger.png)
 
 ---
 [← Back to README](../README.md)
