@@ -75,7 +75,7 @@ Go to **Settings → Filters and Blocked Addresses → Create new filter**
 
 ## Screenshots
 
-![Zapier Trigger Setup](../screenshots/workflow1-trigger-setup.png)
+![AppScript Trigger Workflow Image](../screenshots/workflow1-trigger-setup.png)
 
 ---
 [← Back to README](../README.md)
