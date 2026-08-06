@@ -44,7 +44,7 @@ Once all nodes are connected and configured, click **Publish**.
 
 ## Screenshots
 
-![Sub-Zap by Email on Slack Approval workflow Image](../screenshots/workflow3-slack-approval.png)
+![Sub-Zap by Email on Slack Approval workflow Image](../screenshots/workflow3_sub_zap_slack_approval.png)
 
 ---
 [← Back to README](../README.md)
